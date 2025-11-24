@@ -1,5 +1,5 @@
-# FinTrack
-Web-based Application for financial tracking
+# Todo app
+Web-based Application for planning
 
 ## Local Postgres Database
 
